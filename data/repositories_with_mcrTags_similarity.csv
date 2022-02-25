@@ -1,0 +1,976 @@
+repositoryName1,repositoryName2,intersection,similarity
+KylinOLAP/Kylin,hadooparchitecturebook/hadoop-arch-book,"[apache, database, hadoop, hbase]",1.0
+framiere/a-kafka-story,lyb-geek/springboot-learning,[github],1.0
+GuoGuang/madao_service,apache/shiro,[github],1.0
+spring-cloud/stream-applications,thombergs/code-examples,"[junit, testing]",1.0
+hazelcast/hazelcast,yahoo/Oak,"[cache, client]",1.0
+apache/bahir-flink,syndesisio/syndesis,"[junit, testing]",1.0
+IoT-Technology/IoT-Technical-Guide,thingsboard/thingsboard,"[eclipse, server]",1.0
+chubaostream/joyqueue,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+infinispan/infinispan,rythmengine/rythmengine,"[cache, client]",1.0
+apache/james-project,apiman/apiman,"[junit, testing]",1.0
+hapifhir/hapi-fhir,warmuuh/milkman,"[junit, testing]",1.0
+Tanaguru/Tanaguru,code4craft/webmagic,"[html, parser]",1.0
+RyanSusana/elepy,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+adamkewley/jobson,smart-doc-group/smart-doc,[github],1.0
+apache/phoenix,locationtech/geowave,"[apache, database, hadoop, hbase]",0.8
+davetcc/tcMenu,togglz/togglz,"[junit, testing]",1.0
+RyanSusana/elepy,majusko/pulsar-java-spring-boot-starter,"[junit, testing]",1.0
+estatio/estatio,vinsguru/vinsguru-blog-code-samples,[github],1.0
+hazelcast/hazelcast,xuhuisheng/lemon,"[cache, client]",1.0
+apache/incubator-retired-htrace,dgadiraju/code,"[apache, database, hadoop, hbase]",1.0
+cdapio/cdap,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+adobe/S3Mock,spring-cloud/stream-applications,"[junit, testing]",1.0
+davetcc/tcMenu,speedment/speedment,"[junit, testing]",1.0
+apache/hudi,cdapio/cdap,"[apache, database, hadoop, hbase]",1.0
+syndesisio/syndesis,togglz/togglz,"[junit, testing]",1.0
+payara/Payara,warmuuh/milkman,"[junit, testing]",1.0
+Talend/tdi-studio-se,apache/hive,"[apache, database, hadoop, hbase]",1.0
+eliasnogueira/selenium-java-lean-test-architecture,estatio/estatio,[github],1.0
+apache/bahir-flink,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+davetcc/tcMenu,mongock/mongock,"[junit, testing]",1.0
+BetonQuest/BetonQuest,PGMDev/PGM,[platform],1.0
+KylinOLAP/Kylin,apache/hudi,"[apache, database, hadoop, hbase]",1.0
+apache/bahir-flink,spring-cloud/stream-applications,"[junit, testing]",1.0
+davetcc/tcMenu,jobrunr/jobrunr,"[junit, testing]",1.0
+spring-cloud-samples/spring-cloud-contract-samples,spring-io/spring-javaformat,"[junit, testing]",1.0
+apiman/apiman,hapifhir/hapi-fhir,"[junit, testing]",1.0
+roskenet/springboot-javafx-support,thombergs/code-examples,"[junit, testing]",1.0
+brianfrankcooper/YCSB,streamxhub/jobx,"[cache, client]",1.0
+latexdraw/latexdraw,thombergs/code-examples,"[junit, testing]",1.0
+spring-cloud-samples/spring-cloud-contract-samples,thombergs/code-examples,"[junit, testing]",1.0
+speedment/speedment,spring-cloud/stream-applications,"[junit, testing]",1.0
+apache/camel,spring-cloud/stream-applications,"[junit, testing]",1.0
+apache/incubator-retired-htrace,cdapio/tephra,"[apache, database, hadoop, hbase]",1.0
+apache/incubator-retired-htrace,cloudera-labs/envelope,"[apache, database, hadoop, hbase]",1.0
+hopshadoop/hops,streamxhub/jobx,"[cache, client]",1.0
+gudaoxuri/dew,mongock/mongock,"[junit, testing]",1.0
+apache/skywalking-java,infinispan/infinispan,"[cache, client]",1.0
+apiman/apiman,mongock/mongock,"[junit, testing]",1.0
+spring-cloud/spring-cloud-core-tests,warmuuh/milkman,"[junit, testing]",1.0
+j-easy/easy-random,smart-doc-group/smart-doc,[github],1.0
+payara/Payara,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+spring-cloud/spring-cloud-dataflow-samples,togglz/togglz,"[junit, testing]",1.0
+adorsys/keycloak-config-cli,gaia-app/gaia,"[junit, testing]",1.0
+Impetus/Kundera,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+spring-cloud-samples/spring-cloud-contract-samples,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+alexxiyang/shiro-redis,wiverson/maven-jpackage-template,[github],1.0
+chubaostream/joyqueue,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+apache/james-project,confluentinc/parallel-consumer,"[junit, testing]",1.0
+NightWhistler/HtmlSpanner,metersphere/metersphere,"[html, parser]",1.0
+gaia-app/gaia,syndesisio/syndesis,"[junit, testing]",1.0
+apache/skywalking-java,brianfrankcooper/YCSB,"[cache, client]",1.0
+apache/james-project,hapifhir/hapi-fhir,"[junit, testing]",1.0
+adobe/S3Mock,syndesisio/syndesis,"[junit, testing]",1.0
+ityouknow/spring-boot-examples,radargun/radargun,"[cache, client]",1.0
+jobrunr/jobrunr,togglz/togglz,"[junit, testing]",1.0
+apache/httpcomponents-client,hopshadoop/hops,"[cache, client]",1.0
+adorsys/keycloak-config-cli,spring-io/spring-javaformat,"[junit, testing]",1.0
+hazelcast/hazelcast,wicketstuff/core,"[cache, client]",1.0
+DTStack/flinkx,apache/phoenix,"[apache, database, hadoop, hbase]",0.8
+apache/bahir-flink,apache/james-project,"[junit, testing]",1.0
+adorsys/keycloak-config-cli,speedment/speedment,"[junit, testing]",1.0
+apiman/apiman,togglz/togglz,"[junit, testing]",1.0
+gaia-app/gaia,togglz/togglz,"[junit, testing]",1.0
+ityouknow/spring-boot-examples,ragnor/simple-spring-memcached,"[cache, client]",1.0
+GuoGuang/madao_service,adamkewley/jobson,[github],1.0
+dhis2/dhis2-core,estatio/estatio,[github],1.0
+pulsarIO/jetstream,rhq-project/rhq,"[bridge, logging, slf4j]",1.0
+apache/camel,confluentinc/parallel-consumer,"[junit, testing]",1.0
+adobe/S3Mock,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+microcks/microcks,wiverson/maven-jpackage-template,[github],1.0
+gaia-app/gaia,latexdraw/latexdraw,"[junit, testing]",1.0
+adorsys/keycloak-config-cli,mongock/mongock,"[junit, testing]",1.0
+cloudera-labs/envelope,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",1.0
+majusko/pulsar-java-spring-boot-starter,togglz/togglz,"[junit, testing]",1.0
+adorsys/keycloak-config-cli,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+dbs-leipzig/gradoop,heibaiying/BigData-Notes,"[apache, database, hadoop, hbase]",1.0
+RyanSusana/elepy,spring-io/spring-javaformat,"[junit, testing]",1.0
+cloudera-labs/envelope,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+OneBusAway/onebusaway-application-modules,gridgain/gridgain-old,"[google, memcached, spring]",1.0
+rythmengine/rythmengine,wicketstuff/core,"[cache, client]",1.0
+apiman/apiman,gudaoxuri/dew,"[junit, testing]",1.0
+eliasnogueira/selenium-java-lean-test-architecture,lyb-geek/springboot-learning,[github],1.0
+hopshadoop/hops,ragnor/simple-spring-memcached,"[cache, client]",1.0
+apache/hudi,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+apache/apex-core,apache/pinot,[apache],1.0
+framiere/a-kafka-story,smart-doc-group/smart-doc,[github],1.0
+gaia-app/gaia,gudaoxuri/dew,"[junit, testing]",1.0
+adamkewley/jobson,spring-projects/spring-data-examples,[github],1.0
+gudaoxuri/dew,jobrunr/jobrunr,"[junit, testing]",1.0
+gudaoxuri/dew,hapifhir/hapi-fhir,"[junit, testing]",1.0
+apache/camel,apiman/apiman,"[junit, testing]",1.0
+apache/james-project,payara/Payara,"[junit, testing]",1.0
+noear/solon,wicketstuff/core,"[cache, client]",1.0
+dgadiraju/code,hadooparchitecturebook/hadoop-arch-book,"[apache, database, hadoop, hbase]",1.0
+camunda-consulting/code,pulsarIO/jetstream,"[bridge, logging, slf4j]",0.75
+estatio/estatio,lyb-geek/springboot-learning,[github],1.0
+lyb-geek/springboot-learning,vinsguru/vinsguru-blog-code-samples,[github],1.0
+chubaostream/joyqueue,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+cdapio/cdap,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",1.0
+apache/bahir-flink,payara/Payara,"[junit, testing]",1.0
+Tanaguru/Tanaguru,virjar/dungproxy,"[html, parser]",1.0
+baremaps/baremaps,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+apache/bahir-flink,mongock/mongock,"[junit, testing]",1.0
+apache/hudi,apache/phoenix,"[apache, database, hadoop, hbase]",0.8
+apiman/apiman,speedment/speedment,"[junit, testing]",1.0
+apache/hive,dbs-leipzig/gradoop,"[apache, database, hadoop, hbase]",1.0
+cloudera-labs/envelope,dbs-leipzig/gradoop,"[apache, database, hadoop, hbase]",1.0
+ChestShop-authors/ChestShop-3,JorelAli/CommandAPI,[platform],1.0
+cdapio/tephra,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+FenixEdu/fenixedu-academic,Tanaguru/Tanaguru,"[html, parser]",1.0
+RyanSusana/elepy,apiman/apiman,"[junit, testing]",1.0
+baremaps/baremaps,spring-cloud/stream-applications,"[junit, testing]",1.0
+apache/skywalking-java,hopshadoop/hops,"[cache, client]",1.0
+apache/james-project,thombergs/code-examples,"[junit, testing]",1.0
+KylinOLAP/Kylin,chubaostream/joyqueue,"[apache, database, hadoop, hbase]",1.0
+apache/bahir-flink,latexdraw/latexdraw,"[junit, testing]",1.0
+apache/ignite,gridgain/gridgain-old,"[google, memcached, spring]",1.0
+Impetus/Kundera,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+GuoGuang/madao_service,framiere/a-kafka-story,[github],1.0
+apache/james-project,baremaps/baremaps,"[junit, testing]",1.0
+apache/bahir-flink,warmuuh/milkman,"[junit, testing]",1.0
+jobrunr/jobrunr,payara/Payara,"[junit, testing]",1.0
+oracle/coherence,streamxhub/jobx,"[cache, client]",1.0
+speedment/speedment,togglz/togglz,"[junit, testing]",1.0
+dgadiraju/code,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+BetonQuest/BetonQuest,xwiki/xwiki-platform,[platform],1.0
+alexxiyang/shiro-redis,j-easy/easy-random,[github],1.0
+baremaps/baremaps,speedment/speedment,"[junit, testing]",1.0
+apiman/apiman,jobrunr/jobrunr,"[junit, testing]",1.0
+apache/phoenix,dbs-leipzig/gradoop,"[apache, database, hadoop, hbase]",0.8
+apache/druid,oracle/coherence,"[cache, client]",1.0
+Talend/tdi-studio-se,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+apiman/apiman,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+camunda-consulting/code,sofastack/sofa-common-tools,"[bridge, logging, slf4j]",0.75
+majusko/pulsar-java-spring-boot-starter,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+apache/httpcomponents-client,wicketstuff/core,"[cache, client]",1.0
+hapifhir/hapi-fhir,latexdraw/latexdraw,"[junit, testing]",1.0
+hapifhir/hapi-fhir,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+cdapio/cdap,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+davetcc/tcMenu,gaia-app/gaia,"[junit, testing]",1.0
+JorelAli/CommandAPI,mcMMO-Dev/mcMMO,[platform],1.0
+ityouknow/spring-boot-examples,xuhuisheng/lemon,"[cache, client]",1.0
+GuoGuang/madao_service,eliasnogueira/selenium-java-lean-test-architecture,[github],1.0
+apache/httpcomponents-client,infinispan/infinispan,"[cache, client]",1.0
+adorsys/keycloak-config-cli,apache/james-project,"[junit, testing]",1.0
+apache/hive,heibaiying/BigData-Notes,"[apache, database, hadoop, hbase]",1.0
+objectify/objectify,streamxhub/jobx,"[cache, client]",1.0
+RyanSusana/elepy,davetcc/tcMenu,"[junit, testing]",1.0
+apache/iotdb,rhq-project/rhq,"[bridge, logging, slf4j]",1.0
+Talend/tdi-studio-se,dgadiraju/code,"[apache, database, hadoop, hbase]",1.0
+Talend/tdi-studio-se,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",1.0
+adorsys/keycloak-config-cli,davetcc/tcMenu,"[junit, testing]",1.0
+speedment/speedment,thombergs/code-examples,"[junit, testing]",1.0
+apache/httpcomponents-client,noear/solon,"[cache, client]",1.0
+alibaba/alibaba-rsocket-broker,vinsguru/vinsguru-blog-code-samples,[github],1.0
+apache/hudi,dgadiraju/code,"[apache, database, hadoop, hbase]",1.0
+apache/skywalking-java,objectify/objectify,"[cache, client]",1.0
+roskenet/springboot-javafx-support,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+Asqatasun/Asqatasun,code4craft/webmagic,"[html, parser]",1.0
+apache/iotdb,pulsarIO/jetstream,"[bridge, logging, slf4j]",1.0
+apache/druid,brianfrankcooper/YCSB,"[cache, client]",1.0
+payara/Payara,thombergs/code-examples,"[junit, testing]",1.0
+estatio/estatio,spring-projects/spring-data-examples,[github],1.0
+apache/druid,wicketstuff/core,"[cache, client]",1.0
+Asqatasun/Asqatasun,NightWhistler/HtmlSpanner,"[html, parser]",1.0
+lyb-geek/springboot-learning,wiverson/maven-jpackage-template,[github],1.0
+apache/camel,spring-io/spring-javaformat,"[junit, testing]",1.0
+adorsys/keycloak-config-cli,payara/Payara,"[junit, testing]",1.0
+adorsys/keycloak-config-cli,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+hadooparchitecturebook/hadoop-arch-book,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",1.0
+roskenet/springboot-javafx-support,warmuuh/milkman,"[junit, testing]",1.0
+eliasnogueira/selenium-java-lean-test-architecture,smart-doc-group/smart-doc,[github],1.0
+hopshadoop/hops,oracle/coherence,"[cache, client]",1.0
+ityouknow/spring-boot-examples,noear/solon,"[cache, client]",1.0
+majusko/pulsar-java-spring-boot-starter,speedment/speedment,"[junit, testing]",1.0
+GuoGuang/madao_service,smart-doc-group/smart-doc,[github],1.0
+FenixEdu/fenixedu-academic,code4craft/webmagic,"[html, parser]",1.0
+KylinOLAP/Kylin,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",1.0
+94fzb/zrlog,FenixEdu/fenixedu-academic,"[html, parser]",1.0
+confluentinc/parallel-consumer,mongock/mongock,"[junit, testing]",1.0
+adamkewley/jobson,lyb-geek/springboot-learning,[github],1.0
+adamkewley/jobson,j-easy/easy-random,[github],1.0
+ragnor/simple-spring-memcached,xuhuisheng/lemon,"[cache, client]",1.0
+adorsys/keycloak-config-cli,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+spring-projects/spring-data-examples,wiverson/maven-jpackage-template,[github],1.0
+eliasnogueira/selenium-java-lean-test-architecture,framiere/a-kafka-story,[github],1.0
+adobe/S3Mock,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+oracle/coherence,yahoo/Oak,"[cache, client]",1.0
+Talend/tdi-studio-se,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+gaia-app/gaia,thombergs/code-examples,"[junit, testing]",1.0
+apache/hudi,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+jobrunr/jobrunr,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+dhis2/dhis2-core,j-easy/easy-random,[github],1.0
+baremaps/baremaps,payara/Payara,"[junit, testing]",1.0
+confluentinc/parallel-consumer,syndesisio/syndesis,"[junit, testing]",1.0
+adamkewley/jobson,microcks/microcks,[github],1.0
+majusko/pulsar-java-spring-boot-starter,spring-io/spring-javaformat,"[junit, testing]",1.0
+oracle/coherence,rythmengine/rythmengine,"[cache, client]",1.0
+apache/hudi,chubaostream/joyqueue,"[apache, database, hadoop, hbase]",1.0
+majusko/pulsar-java-spring-boot-starter,syndesisio/syndesis,"[junit, testing]",1.0
+spring-cloud/stream-applications,warmuuh/milkman,"[junit, testing]",1.0
+mongock/mongock,payara/Payara,"[junit, testing]",1.0
+brianfrankcooper/YCSB,objectify/objectify,"[cache, client]",1.0
+dbs-leipzig/gradoop,dgadiraju/code,"[apache, database, hadoop, hbase]",1.0
+spring-io/spring-javaformat,togglz/togglz,"[junit, testing]",1.0
+latexdraw/latexdraw,speedment/speedment,"[junit, testing]",1.0
+cdapio/tephra,cloudera-labs/envelope,"[apache, database, hadoop, hbase]",1.0
+apache/camel,warmuuh/milkman,"[junit, testing]",1.0
+apache/camel,thombergs/code-examples,"[junit, testing]",1.0
+apache/james-project,speedment/speedment,"[junit, testing]",1.0
+KylinOLAP/Kylin,cdapio/cdap,"[apache, database, hadoop, hbase]",1.0
+apache/shiro,smart-doc-group/smart-doc,[github],1.0
+adamkewley/jobson,alibaba/alibaba-rsocket-broker,[github],1.0
+majusko/pulsar-java-spring-boot-starter,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+GuoGuang/madao_service,j-easy/easy-random,[github],1.0
+locationtech/geowave,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+baremaps/baremaps,gaia-app/gaia,"[junit, testing]",1.0
+spring-cloud/spring-cloud-core-tests,thombergs/code-examples,"[junit, testing]",1.0
+brianfrankcooper/YCSB,oracle/coherence,"[cache, client]",1.0
+Asqatasun/Asqatasun,psiegman/epublib,"[html, parser]",1.0
+mongock/mongock,syndesisio/syndesis,"[junit, testing]",1.0
+apache/phoenix,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",0.8
+j-easy/easy-random,microcks/microcks,[github],1.0
+majusko/pulsar-java-spring-boot-starter,spring-cloud/stream-applications,"[junit, testing]",1.0
+hapifhir/hapi-fhir,majusko/pulsar-java-spring-boot-starter,"[junit, testing]",1.0
+apache/shiro,estatio/estatio,[github],1.0
+Impetus/Kundera,heibaiying/BigData-Notes,"[apache, database, hadoop, hbase]",1.0
+Impetus/Kundera,apache/phoenix,"[apache, database, hadoop, hbase]",0.8
+vinsguru/vinsguru-blog-code-samples,wiverson/maven-jpackage-template,[github],1.0
+Impetus/Kundera,KylinOLAP/Kylin,"[apache, database, hadoop, hbase]",1.0
+apache/camel,togglz/togglz,"[junit, testing]",1.0
+hapifhir/hapi-fhir,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+GuoGuang/madao_service,wiverson/maven-jpackage-template,[github],1.0
+payara/Payara,spring-io/spring-javaformat,"[junit, testing]",1.0
+apache/skywalking-java,yahoo/Oak,"[cache, client]",1.0
+confluentinc/parallel-consumer,hapifhir/hapi-fhir,"[junit, testing]",1.0
+microcks/microcks,vinsguru/vinsguru-blog-code-samples,[github],1.0
+jobrunr/jobrunr,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+latexdraw/latexdraw,payara/Payara,"[junit, testing]",1.0
+dhis2/dhis2-core,spring-projects/spring-data-examples,[github],1.0
+microcks/microcks,spring-projects/spring-data-examples,[github],1.0
+RyanSusana/elepy,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+apache/james-project,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+noear/solon,radargun/radargun,"[cache, client]",1.0
+latexdraw/latexdraw,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+gudaoxuri/dew,latexdraw/latexdraw,"[junit, testing]",1.0
+baremaps/baremaps,confluentinc/parallel-consumer,"[junit, testing]",1.0
+confluentinc/parallel-consumer,spring-cloud/stream-applications,"[junit, testing]",1.0
+ragnor/simple-spring-memcached,yahoo/Oak,"[cache, client]",1.0
+davetcc/tcMenu,gudaoxuri/dew,"[junit, testing]",1.0
+davetcc/tcMenu,hapifhir/hapi-fhir,"[junit, testing]",1.0
+ChestShop-authors/ChestShop-3,xwiki/xwiki-platform,[platform],1.0
+heibaiying/BigData-Notes,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+Talend/tdi-studio-se,chubaostream/joyqueue,"[apache, database, hadoop, hbase]",1.0
+apache/james-project,mongock/mongock,"[junit, testing]",1.0
+apache/hbase,apache/phoenix,"[apache, client, database, hadoop, hbase]",0.83
+RyanSusana/elepy,adorsys/keycloak-config-cli,"[junit, testing]",1.0
+Impetus/Kundera,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",1.0
+DTStack/flinkx,cdapio/tephra,"[apache, database, hadoop, hbase]",1.0
+apache/shiro,spring-projects/spring-data-examples,[github],1.0
+apache/druid,apache/skywalking-java,"[cache, client]",1.0
+davetcc/tcMenu,thombergs/code-examples,"[junit, testing]",1.0
+gaia-app/gaia,majusko/pulsar-java-spring-boot-starter,"[junit, testing]",1.0
+RyanSusana/elepy,apache/bahir-flink,"[junit, testing]",1.0
+RyanSusana/elepy,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+alexxiyang/shiro-redis,smart-doc-group/smart-doc,[github],1.0
+cdapio/cdap,dbs-leipzig/gradoop,"[apache, database, hadoop, hbase]",1.0
+apache/phoenix,heibaiying/BigData-Notes,"[apache, database, hadoop, hbase]",0.8
+DTStack/flinkx,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+streamxhub/jobx,yahoo/Oak,"[cache, client]",1.0
+DTStack/flinkx,chubaostream/joyqueue,"[apache, database, hadoop, hbase]",1.0
+rythmengine/rythmengine,xuhuisheng/lemon,"[cache, client]",1.0
+togglz/togglz,warmuuh/milkman,"[junit, testing]",1.0
+apiman/apiman,confluentinc/parallel-consumer,"[junit, testing]",1.0
+davetcc/tcMenu,latexdraw/latexdraw,"[junit, testing]",1.0
+speedment/speedment,spring-io/spring-javaformat,"[junit, testing]",1.0
+hazelcast/hazelcast,oracle/coherence,"[cache, client]",1.0
+apache/james-project,gudaoxuri/dew,"[junit, testing]",1.0
+hadooparchitecturebook/hadoop-arch-book,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+davetcc/tcMenu,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+confluentinc/parallel-consumer,gaia-app/gaia,"[junit, testing]",1.0
+apache/hudi,heibaiying/BigData-Notes,"[apache, database, hadoop, hbase]",1.0
+spring-cloud-samples/spring-cloud-contract-samples,warmuuh/milkman,"[junit, testing]",1.0
+apache/bahir-flink,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+davetcc/tcMenu,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+code4craft/webmagic,metersphere/metersphere,"[html, parser]",1.0
+latexdraw/latexdraw,mongock/mongock,"[junit, testing]",1.0
+mirkosertic/Bytecoder,pulsarIO/jetstream,"[bridge, logging, slf4j]",1.0
+apache/incubator-retired-htrace,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+hapifhir/hapi-fhir,togglz/togglz,"[junit, testing]",1.0
+brianfrankcooper/YCSB,rythmengine/rythmengine,"[cache, client]",1.0
+Tanaguru/Tanaguru,psiegman/epublib,"[html, parser]",1.0
+ityouknow/spring-boot-examples,yahoo/Oak,"[cache, client]",1.0
+latexdraw/latexdraw,spring-io/spring-javaformat,"[junit, testing]",1.0
+wicketstuff/core,xuhuisheng/lemon,"[cache, client]",1.0
+cdapio/tephra,heibaiying/BigData-Notes,"[apache, database, hadoop, hbase]",1.0
+FenixEdu/fenixedu-academic,metersphere/metersphere,"[html, parser]",1.0
+dhis2/dhis2-core,microcks/microcks,[github],1.0
+Tanaguru/Tanaguru,metersphere/metersphere,"[html, parser]",1.0
+chubaostream/joyqueue,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+apache/skywalking-java,hazelcast/hazelcast,"[cache, client]",1.0
+mongock/mongock,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+apache/shiro,microcks/microcks,[github],1.0
+apache/bahir-flink,jobrunr/jobrunr,"[junit, testing]",1.0
+majusko/pulsar-java-spring-boot-starter,payara/Payara,"[junit, testing]",1.0
+apache/hbase,apache/kylin,"[apache, cache, client, database, hadoop, hbase]",1.0
+apache/bahir-flink,davetcc/tcMenu,"[junit, testing]",1.0
+radargun/radargun,yahoo/Oak,"[cache, client]",1.0
+ityouknow/spring-boot-examples,objectify/objectify,"[cache, client]",1.0
+lyb-geek/springboot-learning,spring-projects/spring-data-examples,[github],1.0
+Talend/tdi-studio-se,apache/phoenix,"[apache, database, hadoop, hbase]",0.8
+Talend/tdi-studio-se,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+mongock/mongock,spring-io/spring-javaformat,"[junit, testing]",1.0
+Vedenin/useful-java-links,zalando/opentracing-toolbox,[annotations],1.0
+apache/archiva,goldmansachs/obevo,"[cli, command-line, google, parser]",1.0
+noear/solon,objectify/objectify,"[cache, client]",1.0
+adobe/S3Mock,apache/bahir-flink,"[junit, testing]",1.0
+apache/iotdb,sofastack/sofa-common-tools,"[bridge, logging, slf4j]",1.0
+apache/camel,hapifhir/hapi-fhir,"[junit, testing]",1.0
+speedment/speedment,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+noear/solon,ragnor/simple-spring-memcached,"[cache, client]",1.0
+adobe/S3Mock,apiman/apiman,"[junit, testing]",1.0
+hopshadoop/hops,objectify/objectify,"[cache, client]",1.0
+gaia-app/gaia,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+RyanSusana/elepy,gaia-app/gaia,"[junit, testing]",1.0
+syndesisio/syndesis,thombergs/code-examples,"[junit, testing]",1.0
+spring-cloud/stream-applications,togglz/togglz,"[junit, testing]",1.0
+spring-cloud/spring-cloud-dataflow-samples,warmuuh/milkman,"[junit, testing]",1.0
+cdapio/cdap,cloudera-labs/envelope,"[apache, database, hadoop, hbase]",1.0
+dbs-leipzig/gradoop,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+hopshadoop/hops,xuhuisheng/lemon,"[cache, client]",1.0
+gudaoxuri/dew,togglz/togglz,"[junit, testing]",1.0
+adobe/S3Mock,majusko/pulsar-java-spring-boot-starter,"[junit, testing]",1.0
+adobe/S3Mock,togglz/togglz,"[junit, testing]",1.0
+estatio/estatio,j-easy/easy-random,[github],1.0
+chubaostream/joyqueue,dbs-leipzig/gradoop,"[apache, database, hadoop, hbase]",1.0
+spring-cloud/spring-cloud-dataflow-samples,spring-io/spring-javaformat,"[junit, testing]",1.0
+hazelcast/hazelcast,hopshadoop/hops,"[cache, client]",1.0
+adobe/S3Mock,latexdraw/latexdraw,"[junit, testing]",1.0
+RyanSusana/elepy,speedment/speedment,"[junit, testing]",1.0
+spring-cloud-samples/spring-cloud-contract-samples,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+apache/camel,speedment/speedment,"[junit, testing]",1.0
+infinispan/infinispan,objectify/objectify,"[cache, client]",1.0
+roskenet/springboot-javafx-support,togglz/togglz,"[junit, testing]",1.0
+framiere/a-kafka-story,vinsguru/vinsguru-blog-code-samples,[github],1.0
+gaia-app/gaia,warmuuh/milkman,"[junit, testing]",1.0
+Impetus/Kundera,dgadiraju/code,"[apache, database, hadoop, hbase]",1.0
+hazelcast/hazelcast,radargun/radargun,"[cache, client]",1.0
+heibaiying/BigData-Notes,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+eclipse/leshan,thingsboard/thingsboard,"[eclipse, server]",1.0
+apiman/apiman,majusko/pulsar-java-spring-boot-starter,"[junit, testing]",1.0
+latexdraw/latexdraw,warmuuh/milkman,"[junit, testing]",1.0
+apache/httpcomponents-client,radargun/radargun,"[cache, client]",1.0
+FenixEdu/fenixedu-academic,psiegman/epublib,"[html, parser]",1.0
+apache/incubator-retired-htrace,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+cdapio/cdap,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+spring-cloud/spring-cloud-core-tests,spring-io/spring-javaformat,"[junit, testing]",1.0
+KylinOLAP/Kylin,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+framiere/a-kafka-story,j-easy/easy-random,[github],1.0
+camelinaction/camelinaction2,resteasy/resteasy,"[container, embedded, jboss, jetty, server, webserver]",1.0
+alexxiyang/shiro-redis,microcks/microcks,[github],1.0
+hazelcast/hazelcast,rythmengine/rythmengine,"[cache, client]",1.0
+hapifhir/hapi-fhir,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+apache/shiro,vinsguru/vinsguru-blog-code-samples,[github],1.0
+confluentinc/parallel-consumer,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+ragnor/simple-spring-memcached,wicketstuff/core,"[cache, client]",1.0
+speedment/speedment,syndesisio/syndesis,"[junit, testing]",1.0
+apache/httpcomponents-client,objectify/objectify,"[cache, client]",1.0
+wso2/micro-integrator,wso2/product-ei,"[api, scheduling]",1.0
+apache/druid,streamxhub/jobx,"[cache, client]",1.0
+JorelAli/CommandAPI,PGMDev/PGM,[platform],1.0
+ChestShop-authors/ChestShop-3,mcMMO-Dev/mcMMO,[platform],1.0
+apache/httpcomponents-client,brianfrankcooper/YCSB,"[cache, client]",1.0
+infinispan/infinispan,xuhuisheng/lemon,"[cache, client]",1.0
+apache/phoenix,twitter/hraven,"[apache, database, hadoop, hbase]",0.8
+spring-cloud/spring-cloud-dataflow-samples,spring-cloud/stream-applications,"[junit, testing]",1.0
+apache/james-project,warmuuh/milkman,"[junit, testing]",1.0
+adamkewley/jobson,wiverson/maven-jpackage-template,[github],1.0
+adorsys/keycloak-config-cli,thombergs/code-examples,"[junit, testing]",1.0
+hazelcast/hazelcast,ragnor/simple-spring-memcached,"[cache, client]",1.0
+latexdraw/latexdraw,spring-cloud/stream-applications,"[junit, testing]",1.0
+latexdraw/latexdraw,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+smart-doc-group/smart-doc,vinsguru/vinsguru-blog-code-samples,[github],1.0
+apache/camel,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+apache/incubator-retired-htrace,hadooparchitecturebook/hadoop-arch-book,"[apache, database, hadoop, hbase]",1.0
+roskenet/springboot-javafx-support,speedment/speedment,"[junit, testing]",1.0
+DTStack/flinkx,cloudera-labs/envelope,"[apache, database, hadoop, hbase]",1.0
+DTStack/flinkx,cdapio/cdap,"[apache, database, hadoop, hbase]",1.0
+adobe/S3Mock,mongock/mongock,"[junit, testing]",1.0
+confluentinc/parallel-consumer,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+gaia-app/gaia,hapifhir/hapi-fhir,"[junit, testing]",1.0
+BetonQuest/BetonQuest,ChestShop-authors/ChestShop-3,[platform],1.0
+RyanSusana/elepy,adobe/S3Mock,"[junit, testing]",1.0
+apache/hudi,cdapio/tephra,"[apache, database, hadoop, hbase]",1.0
+adamkewley/jobson,estatio/estatio,[github],1.0
+apache/camel,davetcc/tcMenu,"[junit, testing]",1.0
+94fzb/zrlog,Asqatasun/Asqatasun,"[html, parser]",1.0
+payara/Payara,speedment/speedment,"[junit, testing]",1.0
+xuhuisheng/lemon,yahoo/Oak,"[cache, client]",1.0
+94fzb/zrlog,virjar/dungproxy,"[html, parser]",1.0
+apache/james-project,majusko/pulsar-java-spring-boot-starter,"[junit, testing]",1.0
+apache/james-project,spring-io/spring-javaformat,"[junit, testing]",1.0
+apache/phoenix,cdapio/cdap,"[apache, database, hadoop, hbase]",0.8
+94fzb/zrlog,NightWhistler/HtmlSpanner,"[html, parser]",1.0
+gudaoxuri/dew,spring-cloud/stream-applications,"[junit, testing]",1.0
+hazelcast/hazelcast,streamxhub/jobx,"[cache, client]",1.0
+spring-projects/spring-data-examples,vinsguru/vinsguru-blog-code-samples,[github],1.0
+Impetus/Kundera,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+Impetus/Kundera,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+estatio/estatio,microcks/microcks,[github],1.0
+locationtech/geowave,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+baremaps/baremaps,majusko/pulsar-java-spring-boot-starter,"[junit, testing]",1.0
+apache/skywalking-java,xuhuisheng/lemon,"[cache, client]",1.0
+Talend/tdi-studio-se,cloudera-labs/envelope,"[apache, database, hadoop, hbase]",1.0
+cdapio/cdap,cdapio/tephra,"[apache, database, hadoop, hbase]",1.0
+alibaba/alibaba-rsocket-broker,spring-projects/spring-data-examples,[github],1.0
+gaia-app/gaia,speedment/speedment,"[junit, testing]",1.0
+RyanSusana/elepy,payara/Payara,"[junit, testing]",1.0
+apache/kylin,apache/phoenix,"[apache, client, database, hadoop, hbase]",0.83
+hadooparchitecturebook/hadoop-arch-book,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+apache/hive,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+adobe/S3Mock,baremaps/baremaps,"[junit, testing]",1.0
+oracle/coherence,xuhuisheng/lemon,"[cache, client]",1.0
+estatio/estatio,wiverson/maven-jpackage-template,[github],1.0
+hazelcast/hazelcast,ityouknow/spring-boot-examples,"[cache, client]",1.0
+mcMMO-Dev/mcMMO,xwiki/xwiki-platform,[platform],1.0
+Impetus/Kundera,chubaostream/joyqueue,"[apache, database, hadoop, hbase]",1.0
+cdapio/cdap,hadooparchitecturebook/hadoop-arch-book,"[apache, database, hadoop, hbase]",1.0
+apiman/apiman,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+objectify/objectify,rythmengine/rythmengine,"[cache, client]",1.0
+apache/druid,rythmengine/rythmengine,"[cache, client]",1.0
+adorsys/keycloak-config-cli,majusko/pulsar-java-spring-boot-starter,"[junit, testing]",1.0
+openlookeng/hetu-core,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+adobe/S3Mock,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+majusko/pulsar-java-spring-boot-starter,thombergs/code-examples,"[junit, testing]",1.0
+oracle/coherence,ragnor/simple-spring-memcached,"[cache, client]",1.0
+apache/camel,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+apache/james-project,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+dgadiraju/code,heibaiying/BigData-Notes,"[apache, database, hadoop, hbase]",1.0
+rythmengine/rythmengine,streamxhub/jobx,"[cache, client]",1.0
+cdapio/tephra,dbs-leipzig/gradoop,"[apache, database, hadoop, hbase]",1.0
+alexxiyang/shiro-redis,spring-projects/spring-data-examples,[github],1.0
+chubaostream/joyqueue,heibaiying/BigData-Notes,"[apache, database, hadoop, hbase]",1.0
+ModeShape/modeshape,keycloak/keycloak,"[framework, testing]",1.0
+GuoGuang/madao_service,vinsguru/vinsguru-blog-code-samples,[github],1.0
+apache/hive,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+apache/bahir-flink,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+chubaostream/joyqueue,cloudera-labs/envelope,"[apache, database, hadoop, hbase]",1.0
+infinispan/infinispan,yahoo/Oak,"[cache, client]",1.0
+adamkewley/jobson,dhis2/dhis2-core,[github],1.0
+apache/camel,jobrunr/jobrunr,"[junit, testing]",1.0
+apache/camel,mongock/mongock,"[junit, testing]",1.0
+Talend/tdi-studio-se,apache/hudi,"[apache, database, hadoop, hbase]",1.0
+apiman/apiman,spring-io/spring-javaformat,"[junit, testing]",1.0
+adobe/S3Mock,adorsys/keycloak-config-cli,"[junit, testing]",1.0
+metersphere/metersphere,psiegman/epublib,"[html, parser]",1.0
+GuoGuang/madao_service,alibaba/alibaba-rsocket-broker,[github],1.0
+thombergs/code-examples,togglz/togglz,"[junit, testing]",1.0
+apache/druid,apache/httpcomponents-client,"[cache, client]",1.0
+brianfrankcooper/YCSB,radargun/radargun,"[cache, client]",1.0
+dbs-leipzig/gradoop,hadooparchitecturebook/hadoop-arch-book,"[apache, database, hadoop, hbase]",1.0
+jobrunr/jobrunr,majusko/pulsar-java-spring-boot-starter,"[junit, testing]",1.0
+mongock/mongock,speedment/speedment,"[junit, testing]",1.0
+KylinOLAP/Kylin,heibaiying/BigData-Notes,"[apache, database, hadoop, hbase]",1.0
+payara/Payara,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+adorsys/keycloak-config-cli,gudaoxuri/dew,"[junit, testing]",1.0
+hapifhir/hapi-fhir,speedment/speedment,"[junit, testing]",1.0
+apache/phoenix,wgzhao/Addax,"[apache, database, hadoop, hbase]",0.8
+adobe/S3Mock,warmuuh/milkman,"[junit, testing]",1.0
+hopshadoop/hops,yahoo/Oak,"[cache, client]",1.0
+rhq-project/rhq,sofastack/sofa-common-tools,"[bridge, logging, slf4j]",1.0
+apache/camel,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+apache/camel,apache/james-project,"[junit, testing]",1.0
+infinispan/infinispan,radargun/radargun,"[cache, client]",1.0
+spring-cloud/spring-cloud-dataflow-samples,thombergs/code-examples,"[junit, testing]",1.0
+adorsys/keycloak-config-cli,latexdraw/latexdraw,"[junit, testing]",1.0
+apache/phoenix,cloudera-labs/envelope,"[apache, database, hadoop, hbase]",0.8
+RyanSusana/elepy,syndesisio/syndesis,"[junit, testing]",1.0
+apache/camel,payara/Payara,"[junit, testing]",1.0
+apache/camel,gaia-app/gaia,"[junit, testing]",1.0
+infinispan/infinispan,oracle/coherence,"[cache, client]",1.0
+Talend/tdi-studio-se,apache/incubator-retired-htrace,"[apache, database, hadoop, hbase]",1.0
+alibaba/alibaba-rsocket-broker,apache/shiro,[github],1.0
+adobe/S3Mock,spring-io/spring-javaformat,"[junit, testing]",1.0
+cdapio/tephra,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+estatio/estatio,framiere/a-kafka-story,[github],1.0
+IoT-Technology/IoT-Technical-Guide,eclipse/leshan,"[eclipse, server]",1.0
+dhis2/dhis2-core,lyb-geek/springboot-learning,[github],1.0
+apache/camel,gudaoxuri/dew,"[junit, testing]",1.0
+apache/james-project,syndesisio/syndesis,"[junit, testing]",1.0
+apiman/apiman,davetcc/tcMenu,"[junit, testing]",1.0
+larsgeorge/hbase-book,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+noear/solon,oracle/coherence,"[cache, client]",1.0
+radargun/radargun,ragnor/simple-spring-memcached,"[cache, client]",1.0
+confluentinc/parallel-consumer,jobrunr/jobrunr,"[junit, testing]",1.0
+hopshadoop/hops,ityouknow/spring-boot-examples,"[cache, client]",1.0
+hapifhir/hapi-fhir,spring-cloud/stream-applications,"[junit, testing]",1.0
+objectify/objectify,yahoo/Oak,"[cache, client]",1.0
+DTStack/flinkx,Impetus/Kundera,"[apache, database, hadoop, hbase]",1.0
+DTStack/flinkx,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",1.0
+DTStack/flinkx,Talend/tdi-studio-se,"[apache, database, hadoop, hbase]",1.0
+apache/druid,hopshadoop/hops,"[cache, client]",1.0
+alexxiyang/shiro-redis,vinsguru/vinsguru-blog-code-samples,[github],1.0
+confluentinc/parallel-consumer,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+RyanSusana/elepy,mongock/mongock,"[junit, testing]",1.0
+hazelcast/hazelcast,noear/solon,"[cache, client]",1.0
+KylinOLAP/Kylin,Talend/tdi-studio-se,"[apache, database, hadoop, hbase]",1.0
+thombergs/code-examples,warmuuh/milkman,"[junit, testing]",1.0
+davetcc/tcMenu,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+RyanSusana/elepy,thombergs/code-examples,"[junit, testing]",1.0
+lyb-geek/springboot-learning,microcks/microcks,[github],1.0
+baremaps/baremaps,warmuuh/milkman,"[junit, testing]",1.0
+hapifhir/hapi-fhir,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+adobe/S3Mock,apache/camel,"[junit, testing]",1.0
+94fzb/zrlog,metersphere/metersphere,"[html, parser]",1.0
+confluentinc/parallel-consumer,davetcc/tcMenu,"[junit, testing]",1.0
+BetonQuest/BetonQuest,JorelAli/CommandAPI,[platform],1.0
+j-easy/easy-random,vinsguru/vinsguru-blog-code-samples,[github],1.0
+j-easy/easy-random,spring-projects/spring-data-examples,[github],1.0
+majusko/pulsar-java-spring-boot-starter,mongock/mongock,"[junit, testing]",1.0
+gudaoxuri/dew,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+cdapio/tephra,chubaostream/joyqueue,"[apache, database, hadoop, hbase]",1.0
+apache/httpcomponents-client,xuhuisheng/lemon,"[cache, client]",1.0
+apache/james-project,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+larsgeorge/hbase-book,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+apache/hudi,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+GuoGuang/madao_service,dhis2/dhis2-core,[github],1.0
+adobe/S3Mock,apache/james-project,"[junit, testing]",1.0
+hopshadoop/hops,infinispan/infinispan,"[cache, client]",1.0
+alibaba/alibaba-rsocket-broker,j-easy/easy-random,[github],1.0
+DTStack/flinkx,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+PGMDev/PGM,xwiki/xwiki-platform,[platform],1.0
+apache/hive,cdapio/tephra,"[apache, database, hadoop, hbase]",1.0
+apache/bahir-flink,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+metersphere/metersphere,virjar/dungproxy,"[html, parser]",1.0
+apache/incubator-retired-htrace,dbs-leipzig/gradoop,"[apache, database, hadoop, hbase]",1.0
+apache/shiro,eliasnogueira/selenium-java-lean-test-architecture,[github],1.0
+apache/hive,dgadiraju/code,"[apache, database, hadoop, hbase]",1.0
+majusko/pulsar-java-spring-boot-starter,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+lyb-geek/springboot-learning,smart-doc-group/smart-doc,[github],1.0
+alibaba/alibaba-rsocket-broker,wiverson/maven-jpackage-template,[github],1.0
+apache/phoenix,hadooparchitecturebook/hadoop-arch-book,"[apache, database, hadoop, hbase]",0.8
+apache/bahir-flink,speedment/speedment,"[junit, testing]",1.0
+Impetus/Kundera,hadooparchitecturebook/hadoop-arch-book,"[apache, database, hadoop, hbase]",1.0
+Impetus/Kundera,apache/incubator-retired-htrace,"[apache, database, hadoop, hbase]",1.0
+estatio/estatio,smart-doc-group/smart-doc,[github],1.0
+hazelcast/hazelcast,objectify/objectify,"[cache, client]",1.0
+KylinOLAP/Kylin,cdapio/tephra,"[apache, database, hadoop, hbase]",1.0
+apache/bahir-flink,baremaps/baremaps,"[junit, testing]",1.0
+spring-io/spring-javaformat,warmuuh/milkman,"[junit, testing]",1.0
+microcks/microcks,smart-doc-group/smart-doc,[github],1.0
+GuoGuang/madao_service,lyb-geek/springboot-learning,[github],1.0
+alexxiyang/shiro-redis,apache/shiro,[github],1.0
+spring-cloud/spring-cloud-core-tests,spring-cloud/stream-applications,"[junit, testing]",1.0
+DTStack/flinkx,dgadiraju/code,"[apache, database, hadoop, hbase]",1.0
+94fzb/zrlog,code4craft/webmagic,"[html, parser]",1.0
+brianfrankcooper/YCSB,ragnor/simple-spring-memcached,"[cache, client]",1.0
+RyanSusana/elepy,apache/james-project,"[junit, testing]",1.0
+baremaps/baremaps,thombergs/code-examples,"[junit, testing]",1.0
+alibaba/alibaba-rsocket-broker,smart-doc-group/smart-doc,[github],1.0
+KylinOLAP/Kylin,dgadiraju/code,"[apache, database, hadoop, hbase]",1.0
+eliasnogueira/selenium-java-lean-test-architecture,spring-projects/spring-data-examples,[github],1.0
+confluentinc/parallel-consumer,latexdraw/latexdraw,"[junit, testing]",1.0
+brianfrankcooper/YCSB,yahoo/Oak,"[cache, client]",1.0
+gudaoxuri/dew,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+infinispan/infinispan,ityouknow/spring-boot-examples,"[cache, client]",1.0
+roskenet/springboot-javafx-support,spring-cloud/stream-applications,"[junit, testing]",1.0
+framiere/a-kafka-story,wiverson/maven-jpackage-template,[github],1.0
+RyanSusana/elepy,warmuuh/milkman,"[junit, testing]",1.0
+apache/hudi,apache/incubator-retired-htrace,"[apache, database, hadoop, hbase]",1.0
+apache/skywalking-java,streamxhub/jobx,"[cache, client]",1.0
+apache/incubator-retired-htrace,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+hopshadoop/hops,wicketstuff/core,"[cache, client]",1.0
+RyanSusana/elepy,jobrunr/jobrunr,"[junit, testing]",1.0
+baremaps/baremaps,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+mongock/mongock,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+apiman/apiman,spring-cloud/stream-applications,"[junit, testing]",1.0
+hadooparchitecturebook/hadoop-arch-book,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+adobe/S3Mock,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+HotswapProjects/HotswapAgent,apache/deltaspike,"[apache, api, beans, module]",1.0
+cdapio/tephra,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",1.0
+apiman/apiman,thombergs/code-examples,"[junit, testing]",1.0
+apache/hive,hadooparchitecturebook/hadoop-arch-book,"[apache, database, hadoop, hbase]",1.0
+objectify/objectify,xuhuisheng/lemon,"[cache, client]",1.0
+apache/phoenix,dgadiraju/code,"[apache, database, hadoop, hbase]",0.8
+j-easy/easy-random,lyb-geek/springboot-learning,[github],1.0
+jobrunr/jobrunr,spring-cloud/stream-applications,"[junit, testing]",1.0
+adamkewley/jobson,framiere/a-kafka-story,[github],1.0
+gudaoxuri/dew,speedment/speedment,"[junit, testing]",1.0
+gudaoxuri/dew,majusko/pulsar-java-spring-boot-starter,"[junit, testing]",1.0
+locationtech/geowave,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+mongock/mongock,warmuuh/milkman,"[junit, testing]",1.0
+mongock/mongock,thombergs/code-examples,"[junit, testing]",1.0
+gaia-app/gaia,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+latexdraw/latexdraw,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+adorsys/keycloak-config-cli,warmuuh/milkman,"[junit, testing]",1.0
+roskenet/springboot-javafx-support,spring-io/spring-javaformat,"[junit, testing]",1.0
+objectify/objectify,wicketstuff/core,"[cache, client]",1.0
+apache/bahir-flink,apiman/apiman,"[junit, testing]",1.0
+Asqatasun/Asqatasun,Tanaguru/Tanaguru,"[html, parser]",1.0
+spring-io/spring-javaformat,syndesisio/syndesis,"[junit, testing]",1.0
+OneBusAway/onebusaway-application-modules,apache/ignite,"[google, memcached, spring]",1.0
+smart-doc-group/smart-doc,spring-projects/spring-data-examples,[github],1.0
+apache/druid,infinispan/infinispan,"[cache, client]",1.0
+gaia-app/gaia,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+mongock/mongock,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+apache/incubator-retired-htrace,heibaiying/BigData-Notes,"[apache, database, hadoop, hbase]",1.0
+heibaiying/BigData-Notes,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",1.0
+mirkosertic/Bytecoder,sofastack/sofa-common-tools,"[bridge, logging, slf4j]",1.0
+chubaostream/joyqueue,dgadiraju/code,"[apache, database, hadoop, hbase]",1.0
+hapifhir/hapi-fhir,mongock/mongock,"[junit, testing]",1.0
+cdapio/cdap,dgadiraju/code,"[apache, database, hadoop, hbase]",1.0
+cdapio/cdap,chubaostream/joyqueue,"[apache, database, hadoop, hbase]",1.0
+apiman/apiman,syndesisio/syndesis,"[junit, testing]",1.0
+hadooparchitecturebook/hadoop-arch-book,heibaiying/BigData-Notes,"[apache, database, hadoop, hbase]",1.0
+RyanSusana/elepy,apache/camel,"[junit, testing]",1.0
+oracle/coherence,wicketstuff/core,"[cache, client]",1.0
+apiman/apiman,baremaps/baremaps,"[junit, testing]",1.0
+apache/shiro,wiverson/maven-jpackage-template,[github],1.0
+DTStack/flinkx,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+code4craft/webmagic,psiegman/epublib,"[html, parser]",1.0
+GuoGuang/madao_service,microcks/microcks,[github],1.0
+apache/httpcomponents-client,apache/skywalking-java,"[cache, client]",1.0
+Talend/tdi-studio-se,heibaiying/BigData-Notes,"[apache, database, hadoop, hbase]",1.0
+apache/druid,radargun/radargun,"[cache, client]",1.0
+brianfrankcooper/YCSB,ityouknow/spring-boot-examples,"[cache, client]",1.0
+GuoGuang/madao_service,spring-projects/spring-data-examples,[github],1.0
+Talend/tdi-studio-se,cdapio/cdap,"[apache, database, hadoop, hbase]",1.0
+DTStack/flinkx,heibaiying/BigData-Notes,"[apache, database, hadoop, hbase]",1.0
+apache/bahir-flink,spring-io/spring-javaformat,"[junit, testing]",1.0
+davetcc/tcMenu,spring-io/spring-javaformat,"[junit, testing]",1.0
+gudaoxuri/dew,payara/Payara,"[junit, testing]",1.0
+mirkosertic/Bytecoder,rhq-project/rhq,"[bridge, logging, slf4j]",1.0
+apache/james-project,togglz/togglz,"[junit, testing]",1.0
+apiman/apiman,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+radargun/radargun,wicketstuff/core,"[cache, client]",1.0
+gaia-app/gaia,spring-cloud/stream-applications,"[junit, testing]",1.0
+adorsys/keycloak-config-cli,syndesisio/syndesis,"[junit, testing]",1.0
+spring-cloud/spring-cloud-core-tests,syndesisio/syndesis,"[junit, testing]",1.0
+PGMDev/PGM,mcMMO-Dev/mcMMO,[platform],1.0
+framiere/a-kafka-story,microcks/microcks,[github],1.0
+cloudera-labs/envelope,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+alexxiyang/shiro-redis,lyb-geek/springboot-learning,[github],1.0
+alexxiyang/shiro-redis,framiere/a-kafka-story,[github],1.0
+RyanSusana/elepy,spring-cloud/stream-applications,"[junit, testing]",1.0
+adamkewley/jobson,vinsguru/vinsguru-blog-code-samples,[github],1.0
+rythmengine/rythmengine,yahoo/Oak,"[cache, client]",1.0
+apache/httpcomponents-client,streamxhub/jobx,"[cache, client]",1.0
+baremaps/baremaps,gudaoxuri/dew,"[junit, testing]",1.0
+apache/incubator-retired-htrace,cdapio/cdap,"[apache, database, hadoop, hbase]",1.0
+objectify/objectify,radargun/radargun,"[cache, client]",1.0
+speedment/speedment,warmuuh/milkman,"[junit, testing]",1.0
+apache/camel,majusko/pulsar-java-spring-boot-starter,"[junit, testing]",1.0
+spring-cloud/stream-applications,syndesisio/syndesis,"[junit, testing]",1.0
+dhis2/dhis2-core,smart-doc-group/smart-doc,[github],1.0
+apache/httpcomponents-client,yahoo/Oak,"[cache, client]",1.0
+baremaps/baremaps,hapifhir/hapi-fhir,"[junit, testing]",1.0
+hapifhir/hapi-fhir,syndesisio/syndesis,"[junit, testing]",1.0
+apache/hive,chubaostream/joyqueue,"[apache, database, hadoop, hbase]",1.0
+apache/druid,noear/solon,"[cache, client]",1.0
+apache/druid,yahoo/Oak,"[cache, client]",1.0
+dbs-leipzig/gradoop,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+oracle/coherence,radargun/radargun,"[cache, client]",1.0
+payara/Payara,togglz/togglz,"[junit, testing]",1.0
+pulsarIO/jetstream,sofastack/sofa-common-tools,"[bridge, logging, slf4j]",1.0
+alibaba/alibaba-rsocket-broker,eliasnogueira/selenium-java-lean-test-architecture,[github],1.0
+objectify/objectify,oracle/coherence,"[cache, client]",1.0
+brianfrankcooper/YCSB,infinispan/infinispan,"[cache, client]",1.0
+apache/camel,syndesisio/syndesis,"[junit, testing]",1.0
+adorsys/keycloak-config-cli,baremaps/baremaps,"[junit, testing]",1.0
+apache/james-project,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+KylinOLAP/Kylin,apache/phoenix,"[apache, database, hadoop, hbase]",0.8
+adobe/S3Mock,gaia-app/gaia,"[junit, testing]",1.0
+adobe/S3Mock,confluentinc/parallel-consumer,"[junit, testing]",1.0
+apache/bahir-flink,majusko/pulsar-java-spring-boot-starter,"[junit, testing]",1.0
+dbs-leipzig/gradoop,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+dbs-leipzig/gradoop,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",1.0
+majusko/pulsar-java-spring-boot-starter,warmuuh/milkman,"[junit, testing]",1.0
+baremaps/baremaps,syndesisio/syndesis,"[junit, testing]",1.0
+alibaba/alibaba-rsocket-broker,microcks/microcks,[github],1.0
+apache/shiro,dhis2/dhis2-core,[github],1.0
+radargun/radargun,streamxhub/jobx,"[cache, client]",1.0
+apache/druid,objectify/objectify,"[cache, client]",1.0
+alibaba/jvm-sandbox,codice/ddf,[api],1.0
+Impetus/Kundera,apache/hive,"[apache, database, hadoop, hbase]",1.0
+heibaiying/BigData-Notes,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+hantsy/spring-reactive-sample,jhipster/jhipster,"[data, database, graph, neo4j, spring, starter]",0.75
+adobe/S3Mock,davetcc/tcMenu,"[junit, testing]",1.0
+apache/bahir-flink,gaia-app/gaia,"[junit, testing]",1.0
+cloudera-labs/envelope,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+FenixEdu/fenixedu-academic,NightWhistler/HtmlSpanner,"[html, parser]",1.0
+apache/james-project,davetcc/tcMenu,"[junit, testing]",1.0
+KylinOLAP/Kylin,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+apache/druid,ityouknow/spring-boot-examples,"[cache, client]",1.0
+davetcc/tcMenu,majusko/pulsar-java-spring-boot-starter,"[junit, testing]",1.0
+cloudera-labs/envelope,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+gudaoxuri/dew,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+KylinOLAP/Kylin,cloudera-labs/envelope,"[apache, database, hadoop, hbase]",1.0
+KylinOLAP/Kylin,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+gaia-app/gaia,jobrunr/jobrunr,"[junit, testing]",1.0
+apache/camel,latexdraw/latexdraw,"[junit, testing]",1.0
+apache/shiro,framiere/a-kafka-story,[github],1.0
+ityouknow/spring-boot-examples,wicketstuff/core,"[cache, client]",1.0
+ityouknow/spring-boot-examples,oracle/coherence,"[cache, client]",1.0
+alexxiyang/shiro-redis,estatio/estatio,[github],1.0
+spring-cloud/spring-cloud-dataflow-samples,syndesisio/syndesis,"[junit, testing]",1.0
+hapifhir/hapi-fhir,jobrunr/jobrunr,"[junit, testing]",1.0
+roskenet/springboot-javafx-support,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+jobrunr/jobrunr,thombergs/code-examples,"[junit, testing]",1.0
+chubaostream/joyqueue,hadooparchitecturebook/hadoop-arch-book,"[apache, database, hadoop, hbase]",1.0
+radargun/radargun,xuhuisheng/lemon,"[cache, client]",1.0
+jobrunr/jobrunr,speedment/speedment,"[junit, testing]",1.0
+ragnor/simple-spring-memcached,streamxhub/jobx,"[cache, client]",1.0
+Impetus/Kundera,cdapio/cdap,"[apache, database, hadoop, hbase]",1.0
+heibaiying/BigData-Notes,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+apache/iotdb,camunda-consulting/code,"[bridge, logging, slf4j]",0.75
+apache/shiro,j-easy/easy-random,[github],1.0
+gudaoxuri/dew,spring-io/spring-javaformat,"[junit, testing]",1.0
+baremaps/baremaps,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+hazelcast/hazelcast,infinispan/infinispan,"[cache, client]",1.0
+apache/james-project,latexdraw/latexdraw,"[junit, testing]",1.0
+spring-cloud/spring-cloud-core-tests,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+94fzb/zrlog,Tanaguru/Tanaguru,"[html, parser]",1.0
+Impetus/Kundera,dbs-leipzig/gradoop,"[apache, database, hadoop, hbase]",1.0
+apache/skywalking-java,noear/solon,"[cache, client]",1.0
+apache/incubator-retired-htrace,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+apache/james-project,spring-cloud/stream-applications,"[junit, testing]",1.0
+apache/bahir-flink,apache/camel,"[junit, testing]",1.0
+brianfrankcooper/YCSB,wicketstuff/core,"[cache, client]",1.0
+dgadiraju/code,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+Asqatasun/Asqatasun,metersphere/metersphere,"[html, parser]",1.0
+RyanSusana/elepy,hapifhir/hapi-fhir,"[junit, testing]",1.0
+RyanSusana/elepy,baremaps/baremaps,"[junit, testing]",1.0
+latexdraw/latexdraw,togglz/togglz,"[junit, testing]",1.0
+baremaps/baremaps,jobrunr/jobrunr,"[junit, testing]",1.0
+adorsys/keycloak-config-cli,spring-cloud/stream-applications,"[junit, testing]",1.0
+DTStack/flinkx,hadooparchitecturebook/hadoop-arch-book,"[apache, database, hadoop, hbase]",1.0
+apache/httpcomponents-client,oracle/coherence,"[cache, client]",1.0
+twitter/hraven,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+openlookeng/hetu-core,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+dhis2/dhis2-core,eliasnogueira/selenium-java-lean-test-architecture,[github],1.0
+apache/skywalking-java,oracle/coherence,"[cache, client]",1.0
+apache/incubator-retired-htrace,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",1.0
+cdapio/cdap,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+apache/hudi,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",1.0
+jobrunr/jobrunr,syndesisio/syndesis,"[junit, testing]",1.0
+infinispan/infinispan,ragnor/simple-spring-memcached,"[cache, client]",1.0
+apache/skywalking-java,ityouknow/spring-boot-examples,"[cache, client]",1.0
+adorsys/keycloak-config-cli,apache/camel,"[junit, testing]",1.0
+alibaba/alibaba-rsocket-broker,dhis2/dhis2-core,[github],1.0
+larsgeorge/hbase-book,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+confluentinc/parallel-consumer,speedment/speedment,"[junit, testing]",1.0
+BetonQuest/BetonQuest,mcMMO-Dev/mcMMO,[platform],1.0
+adamkewley/jobson,alexxiyang/shiro-redis,[github],1.0
+speedment/speedment,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+adorsys/keycloak-config-cli,hapifhir/hapi-fhir,"[junit, testing]",1.0
+roskenet/springboot-javafx-support,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+objectify/objectify,ragnor/simple-spring-memcached,"[cache, client]",1.0
+majusko/pulsar-java-spring-boot-starter,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+GuoGuang/madao_service,estatio/estatio,[github],1.0
+apache/camel,baremaps/baremaps,"[junit, testing]",1.0
+apache/james-project,gaia-app/gaia,"[junit, testing]",1.0
+apiman/apiman,latexdraw/latexdraw,"[junit, testing]",1.0
+apiman/apiman,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+adobe/S3Mock,thombergs/code-examples,"[junit, testing]",1.0
+gaia-app/gaia,spring-io/spring-javaformat,"[junit, testing]",1.0
+apache/httpcomponents-client,rythmengine/rythmengine,"[cache, client]",1.0
+j-easy/easy-random,wiverson/maven-jpackage-template,[github],1.0
+dgadiraju/code,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+hopshadoop/hops,radargun/radargun,"[cache, client]",1.0
+apache/hudi,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+adorsys/keycloak-config-cli,jobrunr/jobrunr,"[junit, testing]",1.0
+apiman/apiman,payara/Payara,"[junit, testing]",1.0
+apache/hive,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",1.0
+eliasnogueira/selenium-java-lean-test-architecture,wiverson/maven-jpackage-template,[github],1.0
+noear/solon,streamxhub/jobx,"[cache, client]",1.0
+apache/bahir-flink,gudaoxuri/dew,"[junit, testing]",1.0
+confluentinc/parallel-consumer,spring-io/spring-javaformat,"[junit, testing]",1.0
+RyanSusana/elepy,latexdraw/latexdraw,"[junit, testing]",1.0
+ChestShop-authors/ChestShop-3,PGMDev/PGM,[platform],1.0
+payara/Payara,roskenet/springboot-javafx-support,"[junit, testing]",1.0
+spring-cloud-samples/spring-cloud-contract-samples,spring-cloud/stream-applications,"[junit, testing]",1.0
+dhis2/dhis2-core,wiverson/maven-jpackage-template,[github],1.0
+apache/httpcomponents-client,ityouknow/spring-boot-examples,"[cache, client]",1.0
+infinispan/infinispan,streamxhub/jobx,"[cache, client]",1.0
+apiman/apiman,warmuuh/milkman,"[junit, testing]",1.0
+apache/phoenix,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",0.8
+adobe/S3Mock,hapifhir/hapi-fhir,"[junit, testing]",1.0
+infinispan/infinispan,noear/solon,"[cache, client]",1.0
+hapifhir/hapi-fhir,payara/Payara,"[junit, testing]",1.0
+hapifhir/hapi-fhir,spring-io/spring-javaformat,"[junit, testing]",1.0
+alibaba/alibaba-rsocket-broker,lyb-geek/springboot-learning,[github],1.0
+eliasnogueira/selenium-java-lean-test-architecture,microcks/microcks,[github],1.0
+davetcc/tcMenu,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+dbs-leipzig/gradoop,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+Asqatasun/Asqatasun,FenixEdu/fenixedu-academic,"[html, parser]",1.0
+jobrunr/jobrunr,latexdraw/latexdraw,"[junit, testing]",1.0
+latexdraw/latexdraw,syndesisio/syndesis,"[junit, testing]",1.0
+adamkewley/jobson,apache/shiro,[github],1.0
+Impetus/Kundera,Talend/tdi-studio-se,"[apache, database, hadoop, hbase]",1.0
+Talend/tdi-studio-se,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+adorsys/keycloak-config-cli,confluentinc/parallel-consumer,"[junit, testing]",1.0
+larsgeorge/hbase-book,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+smart-doc-group/smart-doc,wiverson/maven-jpackage-template,[github],1.0
+apache/httpcomponents-client,hazelcast/hazelcast,"[cache, client]",1.0
+apache/skywalking-java,wicketstuff/core,"[cache, client]",1.0
+adorsys/keycloak-config-cli,apache/bahir-flink,"[junit, testing]",1.0
+dgadiraju/code,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",1.0
+Asqatasun/Asqatasun,virjar/dungproxy,"[html, parser]",1.0
+ityouknow/spring-boot-examples,streamxhub/jobx,"[cache, client]",1.0
+gaia-app/gaia,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+adobe/S3Mock,jobrunr/jobrunr,"[junit, testing]",1.0
+confluentinc/parallel-consumer,togglz/togglz,"[junit, testing]",1.0
+brianfrankcooper/YCSB,hazelcast/hazelcast,"[cache, client]",1.0
+hopshadoop/hops,rythmengine/rythmengine,"[cache, client]",1.0
+GuoGuang/madao_service,alexxiyang/shiro-redis,[github],1.0
+gudaoxuri/dew,syndesisio/syndesis,"[junit, testing]",1.0
+cdapio/tephra,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+alexxiyang/shiro-redis,eliasnogueira/selenium-java-lean-test-architecture,[github],1.0
+spring-cloud/spring-cloud-core-tests,togglz/togglz,"[junit, testing]",1.0
+apache/hive,apache/incubator-retired-htrace,"[apache, database, hadoop, hbase]",1.0
+RyanSusana/elepy,gudaoxuri/dew,"[junit, testing]",1.0
+syndesisio/syndesis,warmuuh/milkman,"[junit, testing]",1.0
+adorsys/keycloak-config-cli,togglz/togglz,"[junit, testing]",1.0
+alibaba/alibaba-rsocket-broker,framiere/a-kafka-story,[github],1.0
+apache/hive,apache/phoenix,"[apache, database, hadoop, hbase]",0.8
+framiere/a-kafka-story,spring-projects/spring-data-examples,[github],1.0
+apache/bahir-flink,togglz/togglz,"[junit, testing]",1.0
+davetcc/tcMenu,spring-cloud/stream-applications,"[junit, testing]",1.0
+confluentinc/parallel-consumer,thombergs/code-examples,"[junit, testing]",1.0
+ityouknow/spring-boot-examples,rythmengine/rythmengine,"[cache, client]",1.0
+spring-cloud-samples/spring-cloud-contract-samples,syndesisio/syndesis,"[junit, testing]",1.0
+mongock/mongock,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+apache/hudi,cloudera-labs/envelope,"[apache, database, hadoop, hbase]",1.0
+Impetus/Kundera,cloudera-labs/envelope,"[apache, database, hadoop, hbase]",1.0
+payara/Payara,spring-cloud/stream-applications,"[junit, testing]",1.0
+alexxiyang/shiro-redis,alibaba/alibaba-rsocket-broker,[github],1.0
+apache/bahir-flink,confluentinc/parallel-consumer,"[junit, testing]",1.0
+streamxhub/jobx,xuhuisheng/lemon,"[cache, client]",1.0
+baremaps/baremaps,togglz/togglz,"[junit, testing]",1.0
+mongock/mongock,togglz/togglz,"[junit, testing]",1.0
+noear/solon,rythmengine/rythmengine,"[cache, client]",1.0
+apache/druid,hazelcast/hazelcast,"[cache, client]",1.0
+gaia-app/gaia,mongock/mongock,"[junit, testing]",1.0
+latexdraw/latexdraw,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+apache/iotdb,mirkosertic/Bytecoder,"[bridge, logging, slf4j]",1.0
+apache/bahir-flink,hapifhir/hapi-fhir,"[junit, testing]",1.0
+jobrunr/jobrunr,spring-io/spring-javaformat,"[junit, testing]",1.0
+adorsys/keycloak-config-cli,apiman/apiman,"[junit, testing]",1.0
+noear/solon,xuhuisheng/lemon,"[cache, client]",1.0
+confluentinc/parallel-consumer,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+brianfrankcooper/YCSB,hopshadoop/hops,"[cache, client]",1.0
+code4craft/webmagic,virjar/dungproxy,"[html, parser]",1.0
+NightWhistler/HtmlSpanner,virjar/dungproxy,"[html, parser]",1.0
+apache/shiro,lyb-geek/springboot-learning,[github],1.0
+apache/hive,cdapio/cdap,"[apache, database, hadoop, hbase]",1.0
+DTStack/flinkx,dbs-leipzig/gradoop,"[apache, database, hadoop, hbase]",1.0
+DTStack/flinkx,apache/hive,"[apache, database, hadoop, hbase]",1.0
+DTStack/flinkx,apache/incubator-retired-htrace,"[apache, database, hadoop, hbase]",1.0
+davetcc/tcMenu,syndesisio/syndesis,"[junit, testing]",1.0
+jobrunr/jobrunr,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+NightWhistler/HtmlSpanner,code4craft/webmagic,"[html, parser]",1.0
+KylinOLAP/Kylin,apache/hive,"[apache, database, hadoop, hbase]",1.0
+eliasnogueira/selenium-java-lean-test-architecture,vinsguru/vinsguru-blog-code-samples,[github],1.0
+apache/httpcomponents-client,ragnor/simple-spring-memcached,"[cache, client]",1.0
+adorsys/keycloak-config-cli,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+apache/hive,twitter/hraven,"[apache, database, hadoop, hbase]",1.0
+cdapio/tephra,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+adobe/S3Mock,payara/Payara,"[junit, testing]",1.0
+psiegman/epublib,virjar/dungproxy,"[html, parser]",1.0
+gaia-app/gaia,payara/Payara,"[junit, testing]",1.0
+ragnor/simple-spring-memcached,rythmengine/rythmengine,"[cache, client]",1.0
+infinispan/infinispan,wicketstuff/core,"[cache, client]",1.0
+baremaps/baremaps,latexdraw/latexdraw,"[junit, testing]",1.0
+baremaps/baremaps,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+baremaps/baremaps,mongock/mongock,"[junit, testing]",1.0
+apache/skywalking-java,ragnor/simple-spring-memcached,"[cache, client]",1.0
+Talend/tdi-studio-se,cdapio/tephra,"[apache, database, hadoop, hbase]",1.0
+KylinOLAP/Kylin,dbs-leipzig/gradoop,"[apache, database, hadoop, hbase]",1.0
+adobe/S3Mock,speedment/speedment,"[junit, testing]",1.0
+Impetus/Kundera,apache/hudi,"[apache, database, hadoop, hbase]",1.0
+apache/syncope,webanno/webanno,"[bootstrap, jquery, ui, wicket]",1.0
+Talend/tdi-studio-se,hadooparchitecturebook/hadoop-arch-book,"[apache, database, hadoop, hbase]",1.0
+apiman/apiman,gaia-app/gaia,"[junit, testing]",1.0
+apache/phoenix,chubaostream/joyqueue,"[apache, database, hadoop, hbase]",0.8
+apache/hudi,hadooparchitecturebook/hadoop-arch-book,"[apache, database, hadoop, hbase]",1.0
+jobrunr/jobrunr,mongock/mongock,"[junit, testing]",1.0
+payara/Payara,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+apache/skywalking-java,rythmengine/rythmengine,"[cache, client]",1.0
+cdapio/cdap,heibaiying/BigData-Notes,"[apache, database, hadoop, hbase]",1.0
+Impetus/Kundera,cdapio/tephra,"[apache, database, hadoop, hbase]",1.0
+humank/ddd-practitioners-ref,pac4j/pac4j,[io],1.0
+cdapio/tephra,hadooparchitecturebook/hadoop-arch-book,"[apache, database, hadoop, hbase]",1.0
+chubaostream/joyqueue,larsgeorge/hbase-book,"[apache, database, hadoop, hbase]",1.0
+apache/bahir-flink,thombergs/code-examples,"[junit, testing]",1.0
+spring-io/spring-javaformat,thombergs/code-examples,"[junit, testing]",1.0
+RyanSusana/elepy,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+cloudera-labs/envelope,heibaiying/BigData-Notes,"[apache, database, hadoop, hbase]",1.0
+payara/Payara,syndesisio/syndesis,"[junit, testing]",1.0
+NightWhistler/HtmlSpanner,psiegman/epublib,"[html, parser]",1.0
+confluentinc/parallel-consumer,warmuuh/milkman,"[junit, testing]",1.0
+RyanSusana/elepy,togglz/togglz,"[junit, testing]",1.0
+cloudera-labs/envelope,hadooparchitecturebook/hadoop-arch-book,"[apache, database, hadoop, hbase]",1.0
+apache/skywalking-java,radargun/radargun,"[cache, client]",1.0
+apache/incubator-retired-htrace,apache/phoenix,"[apache, database, hadoop, hbase]",0.8
+hapifhir/hapi-fhir,thombergs/code-examples,"[junit, testing]",1.0
+KylinOLAP/Kylin,apache/incubator-retired-htrace,"[apache, database, hadoop, hbase]",1.0
+DTStack/flinkx,apache/hudi,"[apache, database, hadoop, hbase]",1.0
+noear/solon,yahoo/Oak,"[cache, client]",1.0
+brianfrankcooper/YCSB,noear/solon,"[cache, client]",1.0
+spring-cloud-samples/spring-cloud-contract-samples,togglz/togglz,"[junit, testing]",1.0
+mongock/mongock,spring-cloud/stream-applications,"[junit, testing]",1.0
+apache/james-project,jobrunr/jobrunr,"[junit, testing]",1.0
+apache/hive,cloudera-labs/envelope,"[apache, database, hadoop, hbase]",1.0
+gudaoxuri/dew,warmuuh/milkman,"[junit, testing]",1.0
+dhis2/dhis2-core,framiere/a-kafka-story,[github],1.0
+KylinOLAP/Kylin,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+apache/druid,xuhuisheng/lemon,"[cache, client]",1.0
+hopshadoop/hops,noear/solon,"[cache, client]",1.0
+latexdraw/latexdraw,majusko/pulsar-java-spring-boot-starter,"[junit, testing]",1.0
+gudaoxuri/dew,thombergs/code-examples,"[junit, testing]",1.0
+spring-cloud/stream-applications,spring-io/spring-javaformat,"[junit, testing]",1.0
+alexxiyang/shiro-redis,dhis2/dhis2-core,[github],1.0
+brianfrankcooper/YCSB,xuhuisheng/lemon,"[cache, client]",1.0
+dgadiraju/code,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+davetcc/tcMenu,warmuuh/milkman,"[junit, testing]",1.0
+hadooparchitecturebook/hadoop-arch-book,wgzhao/Addax,"[apache, database, hadoop, hbase]",1.0
+DTStack/flinkx,locationtech/geowave,"[apache, database, hadoop, hbase]",1.0
+confluentinc/parallel-consumer,payara/Payara,"[junit, testing]",1.0
+adamkewley/jobson,eliasnogueira/selenium-java-lean-test-architecture,[github],1.0
+streamxhub/jobx,wicketstuff/core,"[cache, client]",1.0
+FenixEdu/fenixedu-academic,virjar/dungproxy,"[html, parser]",1.0
+NightWhistler/HtmlSpanner,Tanaguru/Tanaguru,"[html, parser]",1.0
+DTStack/flinkx,KylinOLAP/Kylin,"[apache, database, hadoop, hbase]",1.0
+94fzb/zrlog,psiegman/epublib,"[html, parser]",1.0
+radargun/radargun,rythmengine/rythmengine,"[cache, client]",1.0
+cloudera-labs/envelope,dgadiraju/code,"[apache, database, hadoop, hbase]",1.0
+Talend/tdi-studio-se,dbs-leipzig/gradoop,"[apache, database, hadoop, hbase]",1.0
+apache/phoenix,cdapio/tephra,"[apache, database, hadoop, hbase]",0.8
+davetcc/tcMenu,payara/Payara,"[junit, testing]",1.0
+jobrunr/jobrunr,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+apache/hive,apache/hudi,"[apache, database, hadoop, hbase]",1.0
+confluentinc/parallel-consumer,gudaoxuri/dew,"[junit, testing]",1.0
+jobrunr/jobrunr,warmuuh/milkman,"[junit, testing]",1.0
+baremaps/baremaps,spring-io/spring-javaformat,"[junit, testing]",1.0
+apache/incubator-retired-htrace,chubaostream/joyqueue,"[apache, database, hadoop, hbase]",1.0
+adobe/S3Mock,gudaoxuri/dew,"[junit, testing]",1.0
+apache/druid,ragnor/simple-spring-memcached,"[cache, client]",1.0
+camunda-consulting/code,mirkosertic/Bytecoder,"[bridge, logging, slf4j]",0.75
+apache/hudi,dbs-leipzig/gradoop,"[apache, database, hadoop, hbase]",1.0
+apache/camel,spring-cloud/spring-cloud-core-tests,"[junit, testing]",1.0
+confluentinc/parallel-consumer,majusko/pulsar-java-spring-boot-starter,"[junit, testing]",1.0
+RyanSusana/elepy,confluentinc/parallel-consumer,"[junit, testing]",1.0
+speedment/speedment,spring-cloud-samples/spring-cloud-contract-samples,"[junit, testing]",1.0
+baremaps/baremaps,davetcc/tcMenu,"[junit, testing]",1.0
+eliasnogueira/selenium-java-lean-test-architecture,j-easy/easy-random,[github],1.0
+gudaoxuri/dew,spring-cloud/spring-cloud-dataflow-samples,"[junit, testing]",1.0
+cdapio/tephra,dgadiraju/code,"[apache, database, hadoop, hbase]",1.0
+dhis2/dhis2-core,vinsguru/vinsguru-blog-code-samples,[github],1.0
+alibaba/alibaba-rsocket-broker,estatio/estatio,[github],1.0
+roskenet/springboot-javafx-support,syndesisio/syndesis,"[junit, testing]",1.0
+apache/hive,openlookeng/hetu-core,"[apache, database, hadoop, hbase]",1.0
+JorelAli/CommandAPI,xwiki/xwiki-platform,[platform],1.0
+camunda-consulting/code,rhq-project/rhq,"[bridge, logging, slf4j]",0.75
+wicketstuff/core,yahoo/Oak,"[cache, client]",1.0

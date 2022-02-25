@@ -30,7 +30,7 @@ public class Application {
         private static final int CONTRIBUTOR_LIMIT = 2; // at least 2 contributors
         private static final int COMMITS_LIMIT = 100; // at least 100 commits
         private static final int DEPENDENCIES_LIMIT = 15; // at most 30 dependencies
-        private static final int FILES_LIMIT = 200; // at most 1000 files
+        private static final int FILES_LIMIT = 20; // at most 1000 files
         private static final List<String> DEPENDENCIES = List.of("org.apache.lucene:lucene-analyzers-common",
                         "org.apache.lucene:lucene-core"); // can be left empty
 

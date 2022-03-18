@@ -26,11 +26,19 @@ public class Application {
         private static final boolean PARSE_REPOSITORIES = true;
         private static final boolean COLLECT_API_CATEGORIES = true;
         private static final boolean DOWNLOAD_JARS = true;
+<<<<<<< Updated upstream
         private static final int STARS_LIMIT = 100; // at least 100 stars
         private static final int CONTRIBUTOR_LIMIT = 2; // at least 2 contributors
         private static final int COMMITS_LIMIT = 100; // at least 100 commits
         private static final int DEPENDENCIES_LIMIT = 15; // at most 15 dependencies
         private static final int FILES_LIMIT = 200; // at most 200 files
+=======
+        private static final int STARS_LIMIT = 50;
+        private static final int CONTRIBUTOR_LIMIT = 2;
+        private static final int COMMITS_LIMIT = 100;  
+        private static final int DEPENDENCIES_LIMIT = 15;
+        private static final int FILES_LIMIT = 200; 
+>>>>>>> Stashed changes
         private static final List<String> DEPENDENCIES = List.of(); // can be left empty
 
         /**
@@ -49,11 +57,11 @@ public class Application {
                 if (COLLECT_REPOSITORIES) {
                         RepositoriesPicker.collectRepositories(STARS_LIMIT, CONTRIBUTOR_LIMIT, COMMITS_LIMIT);
                 }
-//                // // Collect the dependencies of the collected repositories such that they
-//                // // can be used for a separate analysis of all dependencies
-//                if (GET_DEPENDENCIES_OF_COLLECTED_REPOSITORIES) {
-//                        RepositoriesPicker.getDependenciesOfCollectedRepositories();
-//                }
+                // // Collect the dependencies of the collected repositories such that they
+                // // can be used for a separate analysis of all dependencies
+                if (GET_DEPENDENCIES_OF_COLLECTED_REPOSITORIES) {
+                        RepositoriesPicker.getDependenciesOfCollectedRepositories();
+                }
 //                // // Collect the MCR tags of all used dependencies in the collected repositories
 //                // // and assign them to the repositories
 //                if (GET_MCR_TAGS_OF_COLLECTED_REPOSITORIES) {

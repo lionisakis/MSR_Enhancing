@@ -1,5 +1,7 @@
-[tebexio/BuycraftX](https://github.com/tebexio/BuycraftX)
-[eclipse/microprofile-opentracing](https://github.com/eclipse/microprofile-opentracing)
-[jqm4gwt/jqm4gwt](https://github.com/jqm4gwt/jqm4gwt)
-[hmsonline/cassandra-triggers](https://github.com/hmsonline/cassandra-triggers)
-[rockem/blink-java](https://github.com/rockem/blink-java/blob/master/pom.xml)
+| Repositories  |
+| ------------- |
+| [tebexio/BuycraftX](https://github.com/tebexio/BuycraftX)|
+|[eclipse/microprofile-opentracing](https://github.com/eclipse/microprofile-opentracing)|
+|[jqm4gwt/jqm4gwt](https://github.com/jqm4gwt/jqm4gwt)|
+|[hmsonline/cassandra-triggers](https://github.com/hmsonline/cassandra-triggers)|
+|[rockem/blink-java](https://github.com/rockem/blink-java/blob/master/pom.xml)|

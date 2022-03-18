@@ -1,0 +1,11 @@
+,io.usethesource:capsule,org.antlr:antlr4,junit:junit,org.organicdesign:Paguro,commons-cli:commons-cli,com.google.guava:guava
+io.usethesource:capsule,x,Seperable Independencies (1),Seperable Independencies (1),Seperable Independencies (1),Seperable Independencies (1),Meaningful Independence
+org.antlr:antlr4,Seperable Independencies (1),x,Seperable Independencies (1),Seperable Independencies (1),Meaningful Independence,Seperable Independencies (1)
+junit:junit,Seperable Independencies (1),Seperable Independencies (1),x,Test Dependencies,Test Dependencies,Seperable Independencies (1)
+org.organicdesign:Paguro,Seperable Independencies (1),Seperable Independencies (1),Test Dependencies,x,Seperable Independencies (2),Seperable Independencies (2)
+commons-cli:commons-cli,Seperable Independencies (1),Meaningful Independence,Test Dependencies,Seperable Independencies (2),x,Seperable Independencies (1)
+com.google.guava:guava,Meaningful Independence,Seperable Independencies (1),Seperable Independencies (1),Seperable Independencies (2),Seperable Independencies (1),x
+,,,,,,
+,Seperable Independencies (1),Not connected by the same function,,,,
+,Seperable Independencies (2),Not Found in File,,,,
+,Meaningful Independence,Same Function/File,,,,

@@ -1,0 +1,9 @@
+API/API,org.objenesis:objenesis,cglib:cglib-nodep,org.javassist:javassist,junit:junit
+org.objenesis:objenesis,x,Seperable Independencies (1),Seperable Independencies (2),Seperable Independencies (1)
+cglib:cglib-nodep,Seperable Independencies (1),x,Seperable Independencies (2),Seperable Independencies (1)
+org.javassist:javassist,Seperable Independencies (2),Seperable Independencies (2),x,Test Dependencies
+junit:junit,Seperable Independencies (1),Seperable Independencies (1),Test Dependencies,x
+,,,,
+,Seperable Independencies (1),Not connected by the same function,,
+,Seperable Independencies (2),Not Found in File,,
+,Meaningful Independence,Same Function/File,,

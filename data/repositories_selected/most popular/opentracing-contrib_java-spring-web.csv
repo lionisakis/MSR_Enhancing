@@ -1,0 +1,15 @@
+API/API,io.opentracing.contrib:opentracing-spring-web,io.opentracing:opentracing-api,io.opentracing:opentracing-noop,io.opentracing:opentracing-mock,io.opentracing.contrib:opentracing-web-servlet-filter,org.springframework.boot:spring-boot-dependencies,junit:junit,org.mockito:mockito-core,org.awaitility:awaitility,com.mycila:license-maven-plugin-git
+io.opentracing.contrib:opentracing-spring-web,x,Meaningful Independence,Meaningful Independence,Test Dependencies,Compile Dependencies,Meaningful Independence,Meaningful Independence,Meaningful Independence,Meaningful Independence,Seperable Independencies (2)
+io.opentracing:opentracing-api,Meaningful Independence,x,Compile Dependencies,Compile Dependencies,Compile Dependencies,Meaningful Independence,Meaningful Independence,Meaningful Independence,Meaningful Independence,Seperable Independencies (2)
+io.opentracing:opentracing-noop,Meaningful Independence,Compile Dependencies,x,Compile Dependencies,Meaningful Independence,Meaningful Independence,Seperable Independencies (1),Seperable Independencies (1),Meaningful Independence,Seperable Independencies (2)
+io.opentracing:opentracing-mock,Test Dependencies,Compile Dependencies,Compile Dependencies,x,Test Dependencies,Meaningful Independence,Meaningful Independence,Meaningful Independence,Meaningful Independence,Seperable Independencies (2)
+io.opentracing.contrib:opentracing-web-servlet-filter,Compile Dependencies,Compile Dependencies,Meaningful Independence,Test Dependencies,x,Meaningful Independence,Meaningful Independence,Test Dependencies,Test Dependencies,Seperable Independencies (2)
+org.springframework.boot:spring-boot-dependencies,Meaningful Independence,Meaningful Independence,Meaningful Independence,Meaningful Independence,Meaningful Independence,x,Managed Dependencies,Meaningful Independence,Managed Dependencies,Seperable Independencies (2)
+junit:junit,Meaningful Independence,Meaningful Independence,Seperable Independencies (1),Meaningful Independence,Meaningful Independence,Managed Dependencies,x,Meaningful Independence,Test Dependencies,Test Dependencies
+org.mockito:mockito-core,Meaningful Independence,Meaningful Independence,Seperable Independencies (1),Meaningful Independence,Test Dependencies,Meaningful Independence,Meaningful Independence,x,Meaningful Independence,Seperable Independencies (2)
+org.awaitility:awaitility,Meaningful Independence,Meaningful Independence,Meaningful Independence,Meaningful Independence,Test Dependencies,Managed Dependencies,Test Dependencies,Meaningful Independence,x,Seperable Independencies (2)
+com.mycila:license-maven-plugin-git,Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Test Dependencies,Seperable Independencies (2),Seperable Independencies (2),x
+,,,,,,,,,,
+,Seperable Independencies (1),Not connected by the same function,,,,,,,,
+,Seperable Independencies (2),Not Found in File,,,,,,,,
+,Meaningful Independence,Same Function/File,,,,,,,,

@@ -1,0 +1,12 @@
+,io.prometheus:simpleclient,io.prometheus:simpleclient_common,com.netflix.hystrix:hystrix-core,junit:junit,org.assertj:assertj-core,org.apache.logging.log4j:log4j-slf4j-impl,org.apache.logging.log4j:log4j-core
+io.prometheus:simpleclient,x,Compile Dependencies,Meaningful Independence,Test Dependencies,Meaningful Independence,Meaningful Independence,Seperable Independencies (2)
+io.prometheus:simpleclient_common,Compile Dependencies,x,Meaningful Independence,Test Dependencies,Meaningful Independence,Meaningful Independence,Seperable Independencies (2)
+com.netflix.hystrix:hystrix-core,Meaningful Independence,Meaningful Independence,x,Meaningful Independence,Meaningful Independence,Meaningful Independence,Seperable Independencies (2)
+junit:junit,Test Dependencies,Test Dependencies,Meaningful Independence,x,Runtime Dependencies,Seperable Independencies (1),Seperable Independencies (2)
+org.assertj:assertj-core,Meaningful Independence,Meaningful Independence,Meaningful Independence,Runtime Dependencies,x,Seperable Independencies (1),Seperable Independencies (1)
+org.apache.logging.log4j:log4j-slf4j-impl,Meaningful Independence,Meaningful Independence,Meaningful Independence,Seperable Independencies (1),Seperable Independencies (1),x,Runtime Dependencies
+org.apache.logging.log4j:log4j-core,Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (1),Runtime Dependencies,x
+,,,,,,,
+,Seperable Independencies (1),Not connected by the same File,,,,,
+,Seperable Independencies (2),Not Found in File,,,,,
+,Meaningful Independence,Same Function/File,,,,,

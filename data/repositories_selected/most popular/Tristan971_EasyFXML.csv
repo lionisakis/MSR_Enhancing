@@ -1,0 +1,12 @@
+API/API,org.slf4j:slf4j-api,org.openjfx:javafx-graphics,org.openjfx:javafx-controls,org.openjfx:javafx-fxml,io.vavr:vavr,org.immutables:value,org.springframework.boot:spring-boot-starter-test
+org.slf4j:slf4j-api,x,Seperable Independencies (1),Seperable Independencies (1),Seperable Independencies (1),Seperable Independencies (1),Seperable Independencies (1),Meaningful Independence
+org.openjfx:javafx-graphics,Seperable Independencies (1),x,Compile Dependencies,Seperable Independencies (2),Seperable Independencies (1),Seperable Independencies (2),Seperable Independencies (2)
+org.openjfx:javafx-controls,Seperable Independencies (1),Compile Dependencies,x,Compile Dependencies,Seperable Independencies (1),Seperable Independencies (2),Seperable Independencies (2)
+org.openjfx:javafx-fxml,Seperable Independencies (1),Seperable Independencies (2),Compile Dependencies,x,Seperable Independencies (1),Seperable Independencies (2),Seperable Independencies (2)
+io.vavr:vavr,Seperable Independencies (1),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),x,Seperable Independencies (1),Meaningful Independence
+org.immutables:value,Seperable Independencies (1),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (1),x,Seperable Independencies (2)
+org.springframework.boot:spring-boot-starter-test,Meaningful Independence,Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Meaningful Independence,Seperable Independencies (2),x
+,,,,,,,
+,Seperable Independencies (1),Not connected by the same function,,,,,
+,Seperable Independencies (2),Not Found in File,,,,,
+,Meaningful Independence,Same Function/File,,,,,

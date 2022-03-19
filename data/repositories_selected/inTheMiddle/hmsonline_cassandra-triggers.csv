@@ -1,7 +1,4 @@
-,,,,,,,,,,,
-,hmsonline/cassandra-triggers,https://github.com/hmsonline/cassandra-triggers,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
+
 ,,API/API,org.aspectj:aspectjrt,net.java.dev.jna:jna,com.google.guava:guava,org.codehaus.jackson:jackson-core-asl,org.codehaus.jackson:jackson-mapper-asl,org.apache.cassandra:cassandra-all,org.apache.hadoop:hadoop-core,me.prettyprint:hector-core,junit:junit
 ,,org.aspectj:aspectjrt,x,Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Meaningful Independence,Seperable Independencies (2),Seperable Independencies (2),Meaningful Independence
 ,,net.java.dev.jna:jna,Seperable Independencies (2),x,Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),compile/managed,Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (1)

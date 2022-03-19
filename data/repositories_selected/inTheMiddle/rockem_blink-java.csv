@@ -1,6 +1,4 @@
-,,,,,,,,,
-,rockem/blink-java,https://github.com/rockem/blink-java,,,,,,,
-,,,,,,,,,
+
 ,API/API,junit:junit,org.hamcrest:hamcrest-all,org.apache.httpcomponents: httpclient,org.mockito:mockito-all,commons-io:commons-io,com.google.code.gson:gson,org.codehaus.groovy:groovy-all,org.codehaus.groovy.modules.http-builder:http-builder
 ,junit:junit,x,Meaningful Independence,test dependency,Meaningful Independence,Meaningful Independence,test dependency,Meaningful Independence,test dependency
 ,org.hamcrest:hamcrest-all,Meaningful Independence,x,Meaningful Independence,Meaningful Independence,Meaningful Independence,Seperable Independencies (2),Seperable Independencies (1),Seperable Independencies (2)

@@ -15,6 +15,4 @@
 ,,com.google.appengine:appengine-testing,Meaningful Independence,Meaningful Independence,Meaningful Independence,Meaningful Independence,Meaningful Independence,Meaningful Independence,Meaningful Independence,Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Meaningful Independence,compile,x,compile
 ,,junit: junit,Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (2),Seperable Independencies (1),Seperable Independencies (1),compile,x
 ,,,,,,,,,,,,,,,,
-,,,Seperable Independencies (1),Not connected by the same File,,,,,,,,,,,,
-,,,Seperable Independencies (2),Not Found in File,,,,,,,,,,,,
-,,,Meaningful Independence,Same File,,,,,,,,,,,,
+

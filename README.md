@@ -34,7 +34,10 @@ Data sources are the Java projects that use Apache Maven as a build automation t
 
 ## Process Delta
 * **Use of Filter in [Application.java](https://github.com/lionisakis/MSR_Enhancing/blob/main/process/src/main/java/de/uni_koblenz/gorjatschev/applyingapis/Application.java) file** <br>
-Following are the filter used in data collection and filter may change according to requirement. <br> <center style="padding: 40px"><img width="70%" src="https://github.com/lionisakis/MSR_Enhancing/blob/main/Image/filter1.jpg" title="Filter used in experiment" /> </center>
+Following are the filter used in data collection and filter may change according to requirement. <br> <center style="padding: 40px"><img width="70%" src="https://github.com/lionisakis/MSR_Enhancing/blob/main/Image/filter1.jpg" title="Filter used in experiment" /> </center> 
+*  5 repositories of were selected from collected repositories for mannual labelling task.
+### Mannual Labelling 
+* First check the POM.xml and list the APIs which were listed in dependecny tag.
 ## Findings:
 ## Implementation of this repository :
 ### Hardware requirements: 

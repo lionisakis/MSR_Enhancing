@@ -28,9 +28,12 @@ problematic, or such?
 * Independent combined API usage
    * Separably Independent 
    * Meaningfully Independent
-# Process Delta
- ** Data Collection  and Preprocessing:** 
+
+ ## Data Collection  
 Data sources are the Java projects that use Apache Maven as a build automation tool from the Github repositories. Data are collected with the help of the code of the [Katharina Gorjatschev thesis paper repository](https://github.com/gorjatschev/applying-apis) 
+
+## Process Delta
+* Use of Filter in Application.java file
 ## Findings:
 ## Implementation of this repository :
 ### Hardware requirements: 

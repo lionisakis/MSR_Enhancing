@@ -28,3 +28,9 @@ problematic, or such?
 * Independent combined API usage
    * Separably Independent 
    * Meaningfully Independent
+
+## Findings of replication :
+## Implementation of this repository :
+### Hardware requirements: 
+### Software requirements: 
+**Validation:** 

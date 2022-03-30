@@ -33,7 +33,7 @@ problematic, or such?
 Data sources are the Java projects that use Apache Maven as a build automation tool from the Github repositories. Data are collected with the help of the code of the [Katharina Gorjatschev thesis paper repository](https://github.com/gorjatschev/applying-apis) 
 
 ## Process Delta
-* **Use of Filter in [Application.java] file**(https://github.com/lionisakis/MSR_Enhancing/blob/main/process/src/main/java/de/uni_koblenz/gorjatschev/applyingapis/Application.java) file <br>
+* **Use of Filter in [Application.java](https://github.com/lionisakis/MSR_Enhancing/blob/main/process/src/main/java/de/uni_koblenz/gorjatschev/applyingapis/Application.java) file** <br>
 Following are the filter used in data collection and filter may change according to requirement. <br> <center style="padding: 40px"><img width="70%" src="https://github.com/lionisakis/MSR_Enhancing/blob/main/Image/filter1.jpg" title="Filter used in experiment" /> </center>
 ## Findings:
 ## Implementation of this repository :

@@ -29,6 +29,8 @@ problematic, or such?
    * Separably Independent 
    * Meaningfully Independent
 # Process Delta
+ * Data Collection  and Preprocessing: 
+Data sources are the Java projects that use Apache Maven as a build automation tool in the Github repositories. 
 ## Findings:
 ## Implementation of this repository :
 ### Hardware requirements: 

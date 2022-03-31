@@ -37,15 +37,15 @@ Data sources are the Java projects that use Apache Maven as a build automation t
 ## Process
 * **Use of Filter in [Application.java](https://github.com/lionisakis/MSR_Enhancing/blob/main/process/src/main/java/de/uni_koblenz/gorjatschev/applyingapis/Application.java) file** <br>
 Following are the filter used in data collection and filter may change according to requirement. <br> <center style="padding: 40px"><img width="70%" src="https://github.com/lionisakis/MSR_Enhancing/blob/main/Image/filter1.jpg" title="Filter used in experiment" /> </center> 
-* Repositories of were selected from collected repositories for mannual labelling task.
-### Mannual Labelling 
+* Repositories of were selected from collected repositories for manual labelling task.
+### Manual Labelling 
 * First check the POM.xml and list the APIs which were listed in dependecny tag.
 * Check the Maven Repositories of each listed API and label the type of dependency exist between those APIs.
 * Check the each code files of the repositories for import of APIs whether there is exist of meaningful independence or not.
 * If the APIs are not used in any code file together then the APIs are seperable independence.
 
 ### Validation: ###
-* Cross validation were done to check if they had the same results for complete mannual labelling tasks for all team members.
+* Cross validation were done to check if they had the same results for complete manual labelling tasks for all team members.
  
 ## Findings:
 ## Implementation of this repository :

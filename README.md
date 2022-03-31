@@ -47,7 +47,13 @@ Following are the filter used in data collection and filter may change according
 ### Validation: ###
 * Cross validation were done to check if they had the same results for complete manual labelling tasks for all team members.
  
-## Findings:
+## FInding:
+* Almost in all repositories have Compile and Test dependencies
+
+* Meaningful independence is less than Separable independence
+
+* Junit is the most used Test API
+
 ## Implementation of this repository :
 ### Hardware requirements: 
 OS : Windows (Used for process), MscOS, Linux (any OS in this would work) Minimum RAM : 4GB Minimum Storage : As the output is a collection of CSV files, minimum of 500MB - 1GB should be suitable

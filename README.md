@@ -45,5 +45,10 @@ Following are the filter used in data collection and filter may change according
 ## Findings:
 ## Implementation of this repository :
 ### Hardware requirements: 
+OS : Windows (Used for process), MscOS, Linux (any OS in this would work) Minimum RAM : 4GB Minimum Storage : As the output is a collection of CSV files, minimum of 500MB - 1GB should be suitable
 ### Software requirements: 
+We used the Eclipse IDE for processing Java files. Any IDE that can execute maven projects in Java language would be suitable for this. The version of Java must be the 11th edition (Java 11). Also, there is need for a GitHub access token in the file RepositoriesPicker.java file. In other words, one has to replace the USERNAME_AND_TOKEN in the file with the generated username and token from Github.
+
+Also, you need a connection with a network so you can access the online Maven site that gives more information about each repository and its API.
+
 **Validation:** 

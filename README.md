@@ -46,7 +46,12 @@ Following are the filter used in data collection and filter may change according
 
 ### Validation: ###
 * Cross validation were done to check if they had the same results for complete manual labelling tasks for all team members.
- 
+
+
+## Visualisation: 
+The findings have been visaulised using the visualisation.py file which has resulted in providing insights into the dominant labels present in each of the repositories that have two or more dependencies. (The resulting graphs can be found in the images folder)
+
+
 ## Finding:
 * Almost in all repositories have Compile and Test dependencies
 
@@ -54,8 +59,7 @@ Following are the filter used in data collection and filter may change according
 
 * Junit is the most used Test API
 
-## Visualisation: 
-The findings have been visaulised using the visualisation.py file which has resulted in providing insights into the dominant labels present in each of the repositories that have two or more dependencies. (The resulting graphs can be found in the images folder)
+
 
 ## Implementation of this repository :
 ### Hardware requirements: 

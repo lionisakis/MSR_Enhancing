@@ -55,6 +55,8 @@ The findings have been visaulised using the visualisation.py file which has resu
 ## Finding:
 * Almost in all repositories have Compile and Test dependencies
 
+* Provided, Runtime and Managed dependencies were rarely used.
+
 * Meaningful independence is less than Separable independence
 
 * Junit is the most used Test API
